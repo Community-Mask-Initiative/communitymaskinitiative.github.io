@@ -1,5 +1,7 @@
 ## Community Mask Initiative
 
+![Sew we could use some help](images/sew-we-need-your-help.jpg)
+
 You can use the [editor on GitHub](https://github.com/Community-Mask-Initiative/communitymaskinitiative.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
