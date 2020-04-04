@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
 
-title:        Community Mask Initiative
-description:      Sew, we need your help!
+title:  Community Mask Initiative
+description:  Sew, we need your help!
+
+
+show_downloads: false
