@@ -2,38 +2,20 @@
 
 ![Sew we could use some help](images/sew-we-need-your-help.jpg)
 
-You can use the [editor on GitHub](https://github.com/Community-Mask-Initiative/communitymaskinitiative.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#SEW...WE NEED YOUR HELP!
+If you can sew, we need your help! Disposable face masks are in short supply and fabric masks can help our healthcare workers and senior citizens. There are many designs online but simple is best. The instructions below for a simple mask can be adapted depending on what you have available. Tightly woven cotton fabric is best. If you don't have flannel for the lining, use two layers of cotton fabric. If you don't have elastic, use bias tape or fabric to edge the short end of the mask and make 10-12" ties on each corner.
+Here is a picture tutorial set of instructions:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://buttoncounter.com/2018/01/14/facemask-a-picture-tutorial/
 
-### Markdown
+A collection box has been placed in the vestibule of the Oak Lawn Village Hall by the police desk on the west side of the building. The address of the Village Hall is:
+9446 Raymond Avenue
+Oak Lawn, IL 60453
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please put your completed masks in a plastic bag and drop them in the box. They will be distributed as needed to local health care providers, nursing homes, etc.
 
-```markdown
-Syntax highlighted code block
+For any questions please email community.mask.initiative@gmail.com
 
-# Header 1
-## Header 2
-### Header 3
+Dig into your fabric stash and be creative! Happy sewing!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Community-Mask-Initiative/communitymaskinitiative.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Since many stores will be mandatory closed, fabric can be purchased at Walmart, Amazon or mail order from Joann Fabrics
